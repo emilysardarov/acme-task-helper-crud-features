@@ -1,0 +1,16 @@
+body {
+  font-family: Verdana;
+}
+
+nav {
+  display: flex;
+  justify-content: space-around;
+}
+
+.selected {
+  border: solid 2px olive;
+}
+
+.complete {
+  text-decoration: line-through;
+}

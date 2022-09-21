@@ -1,8 +1,8 @@
-- after create, navigate to it.
-- after update, navigate to '/'
-- after delete, navigate to '/'
-- add a new property description (STRING)
-- add another new property difficulty
-  enumeration 'EASY', 'MEDIUM', 'DIFFICULT'
-- add the ability to filter by difficulty
-  - /tasks/filter/:difficulty
+- [x] after create, navigate to it.
+- [x] after update, navigate to '/'
+- [x] after delete, navigate to '/'
+- [x] add a new property description (STRING)
+- [x] add another new property difficulty
+  - [x] enumeration 'EASY', 'MEDIUM', 'DIFFICULT'
+- [x] add the ability to filter by difficulty
+  - [x] /tasks/filter/:difficulty
